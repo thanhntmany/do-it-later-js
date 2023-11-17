@@ -1,0 +1,22 @@
+{
+  "name": "do-it-later",
+  "version": "1.0.0",
+  "description": "do-it-later-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhntmany/do-it-later-js.git"
+  },
+  "keywords": [
+    "queue"
+  ],
+  "author": "Thanh Nguyen Thuan <thanhntmany@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhntmany/do-it-later-js/issues"
+  },
+  "homepage": "https://github.com/thanhntmany/do-it-later-js#readme"
+}
